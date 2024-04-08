@@ -65,6 +65,8 @@ Follow the Steps to run the project:
 
 ## Screenshots
 
+file:///home/atharva/Pictures/Screenshots/Screenshot%20from%202024-04-08%2023-53-42.png
+-32:-22:85:47
 
 
 ## Technology Used
