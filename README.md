@@ -64,9 +64,7 @@ Follow the Steps to run the project:
 
 
 ## Screenshots
-
-file:///home/atharva/Pictures/Screenshots/Screenshot%20from%202024-04-08%2023-53-42.png
--32:-22:85:47
+![Screenshot from 2024-04-08 23-53-42](https://github.com/Atharva-Shetty/Medical-Chatbot-using-Langchain-and-LLama2/assets/94366989/740b56a2-c438-4268-a4c7-54f60db8a370)
 
 
 ## Technology Used
